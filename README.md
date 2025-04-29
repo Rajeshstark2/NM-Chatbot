@@ -58,7 +58,7 @@ This project aims to build an AI-powered customer support chatbot trained on rea
 
 ## Sample Screenshot
 
-![chatbot-sample](https://via.placeholder.com/600x200?text=Insert+your+chatbot+UI+here)
+![chatbot-sample](IMG_20250429_083303.jpg)
 
 ---
 
@@ -74,7 +74,6 @@ This project aims to build an AI-powered customer support chatbot trained on rea
 ## Team
 
 - **Rajesh** – Project Lead, Developer
-- *(Add others if any)*
 
 ---
 
